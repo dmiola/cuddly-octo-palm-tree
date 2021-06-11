@@ -2,7 +2,7 @@
 
 
 ## intro
-Este es un tipico componente que trabajamos todo el tiempo. Un headline con su bajada y una grilla con items a resaltar.
+Este es un tipico layout que trabajamos todo el tiempo. Un headline con su bajada y una grilla con items a resaltar.
 
 Debajo los mockups que nos entrega el equipo de diseño, que luego transformamos en templates, componentes, etc.
 
