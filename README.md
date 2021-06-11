@@ -19,7 +19,7 @@ Debajo los mockups que nos entrega el equipo de diseño, que luego transformamos
 
 👍 Al ser ejemplos en JPG no es necesario que el entregable sea pixel perfect ni respetar colores o tipografias, pero si, seria ideal que mantenga mas o menos las proporciones entre los elementos.
 
-👀: Junto a este README hay un index.html, cual lienzo, listo para que puedas ejecutar la solución de la manera que creas mas óptima.
+👀: Junto a este README hay una carpeta _public_ con un _index.html_, cual lienzo en blanco, listo para que puedas ejecutar la solución de la manera que creas mas óptima.
 
 🏁 Una vez completado el ejercicio sólo te resta hacer un pull request y lo revisamos.
 
